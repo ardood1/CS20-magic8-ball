@@ -1,0 +1,27 @@
+html {
+  background: url("img/galaxy.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(225, 225, 225, 0.4);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+}
+
+.green {
+  color: greenyellow;
+}
+
+input {
+  border-color: greenyellow;
+}
